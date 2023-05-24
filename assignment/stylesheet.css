@@ -1,0 +1,14 @@
+header{
+    background-color: beige;
+}
+.info h2{
+    background-color: gray;
+    color: white;
+    content: center;
+    text-align: center;
+}
+#drive{
+    background-color: blue;
+    border: 50px;
+    text-align: center;
+}
